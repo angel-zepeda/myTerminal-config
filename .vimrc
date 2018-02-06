@@ -59,5 +59,6 @@ syntax on
 "colorscheme molokai 
 "colorscheme ayu 
 "colorscheme spacemacs-theme 
-colorscheme duduo
+"colorscheme duduo
 "colorscheme turtles
+colorscheme CandyCode
